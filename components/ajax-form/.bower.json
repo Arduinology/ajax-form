@@ -1,0 +1,38 @@
+{
+  "name": "ajax-form",
+  "authors": [
+    "Ray Nicholus"
+  ],
+  "description": "HTML forms on performance-enhancing drugs",
+  "main": "element/*",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "keywords": [
+    "Polymer",
+    "web-components",
+    "form",
+    "html",
+    "ajax"
+  ],
+  "dependencies": {
+    "core-ajax": "Polymer/core-ajax#~0.5.1",
+    "polymer": "Polymer/polymer#~0.5.1"
+  },
+  "homepage": "https://github.com/garstasio/ajax-form",
+  "_release": "68c6e337e4",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "68c6e337e460383948d2bed5a6840586653abe4a"
+  },
+  "_source": "git://github.com/garstasio/ajax-form.git",
+  "_target": "master",
+  "_originalSource": "garstasio/ajax-form",
+  "_direct": true
+}
